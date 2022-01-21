@@ -1,4 +1,4 @@
-function f(a) {
+ function f(a) {
     if (typeof a === 'number') {
         s = a*a*a
        
